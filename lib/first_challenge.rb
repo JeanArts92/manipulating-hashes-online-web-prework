@@ -13,7 +13,7 @@ def first_challenge
     }
   }
   
-   contacts.delete_if{|key, value| value
+   contacts.delete_if{|key, value| value = "strawberry"}
 
   #your code here
 
