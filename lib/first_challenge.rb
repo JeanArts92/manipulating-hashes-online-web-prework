@@ -18,7 +18,7 @@ def first_challenge
        value.delete_if {|value, data| data = "strawberry"
      end
    end
- end
+ 
  
 
   #your code here
