@@ -13,7 +13,7 @@ def first_challenge
     }
   }
   
-   contacts["Freddy Mercury"]
+   contacts.delete_if{
 
   #your code here
 
